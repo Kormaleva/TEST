@@ -25,3 +25,5 @@ Indices and tables
 **EXAMPLE**
 
 *Пример*
+
+**Уж небо осенью дышало**
